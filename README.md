@@ -1,5 +1,6 @@
 # FoodHunterRuby
 GUI game developed in Ruby
+
 A monster has to catch food in order to survive, You will be controlling the monster and making sure that he gets the right food.
 
 How to Run:
